@@ -1,0 +1,62 @@
+[
+    {
+    "id": 1,
+    "img": "Images/game.webp",
+    "cln": "Game Development"
+},
+    {
+    "id": 2,
+    "img": "Images/ai.webp",
+    "cln": "Generatives AI"
+},
+    {
+    "id": 3,
+    "img": "Images/3d.jpg",
+    "cln": "3D Modeling/Rendering"
+},
+    {
+    "id": 4,
+    "img": "Images/anime.jpg",
+    "cln": "2D/3D Animation"
+},
+    {
+    "id": 5,
+    "img": "Images/motion.jpg",
+    "cln": "Motion Graphics"
+},
+    {
+    "id": 6,
+    "img": "Images/vfx.jpg",
+    "cln": "VFX"
+},
+    {
+    "id": 7,
+    "img": "Images/vr.jpg",
+    "cln": "AR/VR/MR/XR"
+},
+    {
+    "id": 8,
+    "img": "Images/vrp.jpg",
+    "cln": "Virtual Production"
+},
+    {
+    "id": 9,
+    "img": "Images/cg.jpg",
+    "cln": "CG"
+},
+    {
+    "id": 10,
+    "img": "Images/uiux.jpg",
+    "cln": "UI/UX"
+},
+    {
+    "id": 11,
+    "img": "Images/acad.jpg",
+    "cln": "Academic Alliances"
+},
+    {
+    "id": 12,
+    "img": "Images/vid_edit.jpg",
+    "cln": "Video Editing"
+}
+]
